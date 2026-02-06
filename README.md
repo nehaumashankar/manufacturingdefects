@@ -1,4 +1,4 @@
-#📌 Project Overview
+# Project Overview
 
 This project analyses manufacturing defect data to identify key cost drivers, defect patterns, and quality risks across products, inspection methods and defect severity.
 
@@ -12,13 +12,13 @@ which defects are most expensive,
 
 and how defect trends evolve over time.
 
-#⭐ North Star Metric
+# North Star Metric
 
 Total Repair Cost
 
 This metric represents the overall business impact of manufacturing defects and is used as the primary performance indicator throughout the dashboard.
 
-#📈 Key KPIs
+# Key KPIs
 
 Total Repair Cost
 
@@ -28,7 +28,7 @@ Average Repair Cost per Defect
 
 Critical Defect Percentage
 
-#📊 Dashboard Features
+# Dashboard Features
 
 The dashboard includes:
 
@@ -44,7 +44,7 @@ Heatmap of defect location vs repair cost band
 
 Interactive KPI cards
 
-#🎯 Key Business Questions Answered
+# Key Business Questions Answered
 
 Which defect types contribute most to total repair cost?
 
@@ -56,7 +56,7 @@ Which inspection methods identify the most severe defects?
 
 Which product locations are associated with high-cost repairs?
 
-#🧠 Interactivity & Advanced Features
+# Interactivity & Advanced Features
 
 Global filters for:
 
@@ -82,7 +82,7 @@ Repair Cost Band
 
 Critical Defect indicator
 
-#🛠 Tools & Technologies
+# Tools & Technologies
 
 Tableau Public
 
@@ -90,7 +90,7 @@ Public dataset from Kaggle – Manufacturing Defects Dataset
 
 Calculated fields and parameters created directly within Tableau
 
-#📂 Dataset Description
+# Dataset Description
 
 Each record represents a detected defect with the following attributes:
 
@@ -112,12 +112,12 @@ Repair cost
 
 The dataset contains approximately 1,000 defect records.
 
-#⚠️ Notes
+# Notes
 
 This dataset is a public, synthetic dataset used for analytical and visualisation practice.
 The focus of this project is on dashboard design, KPI definition, interactivity and business-oriented storytelling.
 
-#👩‍💻 Author
+# Author
 
 Neha Umashankar
 Data Analyst
